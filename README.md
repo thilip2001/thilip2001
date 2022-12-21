@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thiliban Ravichandran
 - 👀 Frontend Web Developer
-- 💞️ Freelancer
 - 📫 Find me on: 📱https://www.linkedin.com/in/thiliban-ravichandran-aa12051ba/
 -                 📧 thilip2017@gmail.com
